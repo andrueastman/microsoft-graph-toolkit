@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.2.5](https://github.com/microsoftgraph/microsoft-graph-toolkit/compare/v4.2.4...v4.2.5) (2024-08-12)
+
+
+### Bug Fixes
+
+* update the css query and events used to rename copy button aria-labels ([#3271](https://github.com/microsoftgraph/microsoft-graph-toolkit/issues/3271)) ([439d0fc](https://github.com/microsoftgraph/microsoft-graph-toolkit/commit/439d0fcf2ad115af683f0713d854c551a1883e5a))
+
 ## [4.2.4](https://github.com/microsoftgraph/microsoft-graph-toolkit/compare/v4.2.3...v4.2.4) (2024-08-06)
 
 
